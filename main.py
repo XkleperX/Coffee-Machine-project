@@ -1,9 +1,8 @@
-from menu import MENU
+from menu import MENU, resources
 from art import logo,coin
 
 
 print(logo)
-resources = {"water": 300, "milk": 200, "coffee": 100, "money": 0}
 
 quarter = 0.25
 dimes = 0.10
